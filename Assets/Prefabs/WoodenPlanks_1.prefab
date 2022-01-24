@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5799059393150171337}
   - component: {fileID: 2483235417789461434}
   - component: {fileID: 6052247130638900203}
+  - component: {fileID: 7215965713079087653}
   m_Layer: 0
   m_Name: WoodenPlanks_1
   m_TagString: Untagged
@@ -82,3 +83,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7215965713079087653
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8651274348422130694}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.36303145, y: 0.11051224, z: 3.0653598}
+  m_Center: {x: 0, y: 0, z: -0.09107888}

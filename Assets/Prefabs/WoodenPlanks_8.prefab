@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6015411653453177821}
   - component: {fileID: 4937510369117460086}
   - component: {fileID: 408152339618259868}
+  - component: {fileID: -5392017929144012540}
   m_Layer: 0
   m_Name: WoodenPlanks_8
   m_TagString: Untagged
@@ -26,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 313331367073249217}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0062384903, y: 0, z: -3.5012276}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.43491647, y: 0.43491647, z: 0.43491647}
   m_Children: []
   m_Father: {fileID: 0}
@@ -82,3 +83,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &-5392017929144012540
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 313331367073249217}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.3630329, y: 0.3249339, z: 5.80755}
+  m_Center: {x: 0, y: 0, z: 0.00000035762793}
